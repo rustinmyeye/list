@@ -9,6 +9,57 @@
 | kesagape | Can | Retired with mid to upper-level management and leadership experience, wisdom, common sense, active in Cardano community, selective project involvement | Availability: 12:00 - 16:00 UTC | @kesagape | Negotiable |
 | Sisyphuspush      | Can    |                                                              |                                                              | @Sisyphuspush            |                                                              |
 | Paul Hugo         | Can    |                                                              |                                                              | @lifeofifa               |                                                              |
+| Aez.Etian           | Can    |                                                              |                                                              | aez.e              |              |
+| Alex Trades Futures | Can    |                                                              |                                                              | son_goku_son_goku |              |
+| almostenough        | Can    |                                                              |                                                              | almostenough       |              |
+| andrew              | Can    |                                                              |                                                              | andrew_ergogallery.com |              |
+| asspects            | Can    |                                                              |                                                              | asspects.          |              |
+| Atilla - [EUTXO] Stake Pool | Can    |                                                              |                                                              | attila3944         |              |
+| ATXpert             | Can    |                                                              |                                                              | atxpert            |              |
+| barryeire           | Can    |                                                              |                                                              | barryeire          |              |
+| bizzler             | Can    |                                                              |                                                              | .bizzler           |              |
+| BlackBrowedAlbatross | Can    |                                                              |                                                              | blackbrowedalbatross |              |
+| Bonza               | Can    |                                                              |                                                              | theebonzo          |              |
+| Bryce               | Can    |                                                              |                                                              | brycenaut          |              |
+| daskre              | Can    |                                                              |                                                              | .daskre.           |              |
+| daydreaming1980     | Can    |                                                              |                                                              | daydreaming1980    |              |
+| dissentralize       | Can    |                                                              |                                                              | dissentralize      |              |
+| Divo | prev.pluto   | Can    |                                                              |                                                              | divo3              |              |
+| Doomtroll           | Can    |                                                              |                                                              | doomtroll          |              |
+| dragonborn          | Can    |                                                              |                                                              | donalddd2998       |              |
+| EddNorris (ERGnomes.io) | Can    |                                                              |                                                              | eddnorris          |              |
+| ERGOGO              | Can    |                                                              |                                                              | ergogo             |              |
+| geoli2021           | Can    |                                                              |                                                              | geoli2021          |              |
+| Hollo               | Can    |                                                              |                                                              | hollo1390          |              |
+| JayDee12Thr33       | Can    |                                                              |                                                              | jaydee12thr33      |              |
+| Jerry_slush         | Can    |                                                              |                                                              | jerry_slush        |              |
+| jhon_moio           | Can    |                                                              |                                                              | jhon_moio          |              |
+| Jlink               | Can    |                                                              |                                                              | jumpylink          |              |
+| Kilver              | Can    |                                                              |                                                              | kilv3r             |              |
+| Knox Wilson         | Can    |                                                              |                                                              | knoxwilson         |              |
+| konan               | Can    |                                                              |                                                              | bennyk5562         |              |
+| LouisLibre          | Can    |                                                              |                                                              | louislibre         |              |
+| LuvADA              | Can    |                                                              |                                                              | luvada420          |              |
+| Lycan               | Can    |                                                              |                                                              | sonngrard          |              |
+| MaverickBg          | Can    |                                                              |                                                              | maverick.bg        |              |
+| MGpai               | Can    |                                                              |                                                              | mgpai              |              |
+| mijbil              | Can    |                                                              |                                                              | .mijbil            |              |
+| miloventimiglia     | Can    |                                                              |                                                              | miloventimiglia    |              |
+| obin                | Can    |                                                              |                                                              | obin69             |              |
+| paul                | Can    |                                                              |                                                              | moonbearpaul       |              |
+| peregrinus879       | Can    |                                                              |                                                              | peregrinus879      |              |
+| PiracyData          | Can    |                                                              |                                                              | dmitriy0976        |              |
+| pxl                 | Can    |                                                              |                                                              | pxl.erg            |              |
+| Rafael Pasold       | Can    |                                                              |                                                              | rafaelpasold       |              |
+| RegEvNormGuy        | Can    |                                                              |                                                              | regevnormguy       |              |
+| reshad              | Can    |                                                              |                                                              | rogerdodger2690    |              |
+| SigmaUTxO           | Can    |                                                              |                                                              | sigmautxo          |              |
+| the_ssbd            | Can    |                                                              |                                                              | the_ssbd           |              |
+| TheStophe [BALNC]   | Can    |                                                              |                                                              | thestophe          |              |
+| timsahabutdinov    | Can    |                                                              |                                                              | timsahabutdinov    |              |
+| USCMigs             | Can    |                                                              |                                                              | uscmigs            |              |
+| Yuji                | Can    |                                                              |                                                              | yujialz            |              |
+| Zimulakra           | Can    |                                                              |                                                              | zimulakra          |              |
 | abashai           | Sig    |                                                              |                                                              | abashai#9101             |                                                              |
 | Affable Villain   | Sig    |                                                              |                                                              | Affable Villain#4533     |                                                              |
 | AlexisE           | Sig    |                                                              |                                                              | AlexisE#7724             |                                                              |
