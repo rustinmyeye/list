@@ -91,7 +91,7 @@
 
 - **Status:** Indicates whether the member is a current Sigmanaut (Sig) or a candidate (Can).
 
-- **Skills:** Lists the relevant skills possessed by each member or candidate.
+- **About:** Basic info, as well as relevant skills possessed by each member or candidate.
 
 - **Contact Info:** Provides the Discord username or Telegram handle of each member or candidate.
 
