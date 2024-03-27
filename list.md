@@ -153,6 +153,6 @@
 
 - **About:** Basic info, as well as relevant skills possessed by each member or candidate.
 
-- **Contact Info:** Provides the Discord username or Telegram handle of each member or candidate.
+- **Contact Info:** Provides the Discord username or if it is @useername then its a Telegram handle.
 
   
