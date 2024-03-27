@@ -20,7 +20,7 @@
 | daskre              | Can    |                                                              |                                                              | .daskre.           |              |
 | daydreaming1980     | Can    |                                                              |                                                              | daydreaming1980    |              |
 | dissentralize       | Can    |                                                              |                                                              | dissentralize      |              |
-| Divo | prev.pluto   | Can    |                                                              |                                                              | divo3              |              |
+| Divo prev.pluto   | Can    |                                                              |                                                              | divo3              |              |
 | Doomtroll           | Can    |                                                              |                                                              | doomtroll          |              |
 | dragonborn          | Can    |                                                              |                                                              | donalddd2998       |              |
 | EddNorris (ERGnomes.io) | Can    |                                                              |                                                              | eddnorris          |              |
