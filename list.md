@@ -155,3 +155,10 @@
 - **Contact Info:** Provides the Discord username or if it is @useername then its a Telegram handle.
 
   
+## Tips for Sig-Cans
+
+As a Sig can, you should know that it is up to you to ask to have a proposal made for full sigmanaut status. You can ask at anytime.
+
+Also check out the Sigmanauts DAO on paideia, for an idea of what has been voted on previously.
+
+https://app.paideia.im/Sigmanauts
