@@ -159,6 +159,5 @@
 
 As a Sig can, you should know that it is up to you to ask to have a proposal made for full sigmanaut status. You can ask at anytime.
 
-Also check out the Sigmanauts DAO on paideia, for an idea of what has been voted on previously.
+Also check out the [Sigmanauts DAO](https://app.paideia.im/Sigmanauts) on paideia, for an idea of what has been voted on previously.
 
-https://app.paideia.im/Sigmanauts
