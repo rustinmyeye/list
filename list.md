@@ -157,6 +157,8 @@
 
 ## Additional Notes
 
+- 🖐️ Indicates that a Sig-Can is ready to move to Sigmanaut. Sigmanauts, please create a proposal for them.
+
 - **Status:** Indicates whether the member is a current Sigmanaut (Sig) or a candidate (Can).
 
 - **About:** Basic info, as well as relevant skills possessed by each member or candidate.
