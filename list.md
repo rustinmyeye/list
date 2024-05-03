@@ -1,4 +1,28 @@
-# Sigmanauts
+# Sigmanauts Member Directory
+
+Welcome to the Sigmanauts Member Directory! This document is designed to
+ serve as a comprehensive reference for all Sigmanauts members and 
+candidates. Whether you're seeking to connect with fellow members or 
+staying updated on the latest contributors to the Sigmanauts community, 
+this directory has you covered.
+
+## Guide
+
+- 🖐️ Indicates that a Sig-Can is ready to move to Sigmanaut. Sigmanauts, please create a proposal for them.
+
+- **Status:** Indicates whether the member is a current Sigmanaut (Sig) or a candidate (Can).
+
+- **About:** Basic info, as well as relevant skills possessed by each member or candidate.
+
+- **Contact Info:** Provides the Discord username or if it is @username then its a Telegram handle.
+
+- Please add info about yourself by making a pull request, or contact @rustinmyeye on telegram.
+
+## Tips for Sig-Cans
+
+As a Sig can, you should know that it is up to you to ask to have a proposal made for full sigmanaut status. You can ask at anytime.
+
+Also check out the [Sigmanauts DAO](https://app.paideia.im/Sigmanauts) on paideia, for an idea of what has been voted on previously. Please read [this document](https://docs.ergoplatform.com/eco/paideia/) to learn how to use Paideia.
 
 ## Members as of May 3, 2024
 
@@ -155,19 +179,3 @@
 | Warwick (CW)                | Sig    | EF member (former?). Very active community member, active sig, [youtube](https://www.youtube.com/c/HashitOutwCW), [twitter]()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                  | CW#8500                                                |                                                                                                                                                                                                                      |
 | WilfordGrimley              | Sig    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                  | WilfordGrimley#0124                                    |                                                                                                                                                                                                                      |
 | wombo22                     | Sig    | Wombo is a constant force for good in the ergo community. Consistently engaging in multiple platforms providing encouragement, information, and one on one support. Always on top of dev and marketing update ingestion and feedback as well!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                  | wombo22#5461                                           |                                                                                                                                                                                                                      |
-
-## Additional Notes
-
-- 🖐️ Indicates that a Sig-Can is ready to move to Sigmanaut. Sigmanauts, please create a proposal for them.
-
-- **Status:** Indicates whether the member is a current Sigmanaut (Sig) or a candidate (Can).
-
-- **About:** Basic info, as well as relevant skills possessed by each member or candidate.
-
-- **Contact Info:** Provides the Discord username or if it is @username then its a Telegram handle.
-
-## Tips for Sig-Cans
-
-As a Sig can, you should know that it is up to you to ask to have a proposal made for full sigmanaut status. You can ask at anytime.
-
-Also check out the [Sigmanauts DAO](https://app.paideia.im/Sigmanauts) on paideia, for an idea of what has been voted on previously. Please read [this document](https://docs.ergoplatform.com/eco/paideia/) to learn how to use Paideia.
