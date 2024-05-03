@@ -20,9 +20,7 @@ this directory has you covered.
 
 ## Tips for Sig-Cans
 
-As a Sig can, you should know that it is up to you to ask to have a proposal made for full sigmanaut status. You can ask at anytime.
-
-Also check out the [Sigmanauts DAO](https://app.paideia.im/Sigmanauts) on paideia, for an idea of what has been voted on previously. Please read [this document](https://docs.ergoplatform.com/eco/paideia/) to learn how to use Paideia.
+As a Sig can, you should know that it is up to you to ask to have a proposal made for full sigmanaut status. You can ask at anytime. Also check out the [Sigmanauts DAO](https://app.paideia.im/Sigmanauts) on paideia, for an idea of what has been voted on previously. Please read [this document](https://docs.ergoplatform.com/eco/paideia/) to learn how to use Paideia.
 
 ## Members as of May 3, 2024
 
